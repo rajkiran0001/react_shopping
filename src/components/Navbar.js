@@ -42,7 +42,6 @@ const NavWrapper = styled.nav`
     text-transform: capitalize;
     
 }
-
 `;
 
 
